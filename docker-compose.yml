@@ -7,3 +7,5 @@ services:
       - .env
     volumes:
       - ./logs:/app/logs
+      wget https://github.com/jamcalli/ABB-Discord-Bot/releases/download/Release/docker-compose.yml
+wget -O .env https://github.com/jamcalli/ABB-Discord-Bot/releases/download/Release/example.env
